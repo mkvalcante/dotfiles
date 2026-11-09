@@ -1,0 +1,34 @@
+[
+  {
+    "name": "alacritty",
+    "path": "$HOME/.config/alacritty/alacritty.toml"
+  },
+  {
+    "name": "alacritty",
+    "path": "$HOME/.config/alacritty/gogh.toml"
+  },
+  {
+    "name": "aliases",
+    "path": "$ZSH_CUSTOM/aliases.zsh"
+  },
+  {
+    "name": "git",
+    "path": "$HOME/.gitconfig"
+  },
+  {
+    "name": "nvim",
+    "path": "$HOME/.config/nvim/init.lua"
+  },
+  {
+    "name": "starship",
+    "path": "$HOME/.config/starship.rs"
+  },
+  {
+    "name": "vscode",
+    "path": "$HOME/.config/Code/User/settings.json"
+  },
+  {
+    "name": "zsh",
+    "path": "$HOME/.zshrc"
+  }
+]
