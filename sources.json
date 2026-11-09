@@ -21,7 +21,7 @@
   },
   {
     "name": "starship",
-    "path": "$HOME/.config/starship.rs"
+    "path": "$HOME/.config/starship.toml"
   },
   {
     "name": "vscode",
