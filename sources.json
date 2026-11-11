@@ -30,5 +30,13 @@
   {
     "name": "zsh",
     "path": "$HOME/.zshrc"
+  },
+  {
+    "name": "bash",
+    "path": "$HOME/.bashrc"
+  },
+  {
+    "name": "tmux",
+    "path": "$HOME/.config/tmux/tmux.conf"
   }
 ]
