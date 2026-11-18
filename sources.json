@@ -38,5 +38,9 @@
   {
     "name": "tmux",
     "path": "$HOME/.config/tmux/tmux.conf"
+  },
+  {
+    "name": "fastfetch",
+    "path": "$HOME/.config/fastfetch/config.jsonc"
   }
 ]

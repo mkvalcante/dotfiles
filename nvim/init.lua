@@ -45,5 +45,5 @@ vim.cmd.colorscheme("catppuccin")
 
 -- Status line
 require("lualine").setup({
-  options = { theme = "catppuccin" },
+  options = { theme = "catppuccin-mocha" },
 })
